@@ -13,11 +13,9 @@ namespace Sales.Domain.Entitites
         [Key]
         public int idUsuario { get; set; }
         public String? nombre{ get; set; }
-        public String? correo { get; set; }
         public int Telefono { get; set; }
         public int? idRol { get; set; }
         public String? urlFoto { get; set; }
         public String? nombreFoto { get; set; }
-        public String? Clave { get; set; }
     }
 }

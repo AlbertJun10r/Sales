@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|solutionrelative:sales.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.infrastructure\\extentions\\usuarioextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|solutionrelative:sales.infrastructure\\extentions\\usuarioextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F7093A-61A4-471F-B365-ED628089825E}|Sales.Application\\Sales.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.application\\sales.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46F7093A-61A4-471F-B365-ED628089825E}|Sales.Application\\Sales.Application.csproj|solutionrelative:sales.application\\sales.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.infrastructure\\exceptions\\usuarioexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|solutionrelative:sales.infrastructure\\exceptions\\usuarioexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.infrastructure\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|solutionrelative:sales.infrastructure\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50571296-9DDE-4284-BD1F-2AA1E43B08B8}|Sales.Infrastructure\\Sales.Infrastructure.csproj|solutionrelative:sales.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B2F83-8DF8-4CFF-B39C-C6AEFD81F309}|Sales.Domain\\Sales.Domain.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267B2F83-8DF8-4CFF-B39C-C6AEFD81F309}|Sales.Domain\\Sales.Domain.csproj|solutionrelative:sales.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B2F83-8DF8-4CFF-B39C-C6AEFD81F309}|Sales.Domain\\Sales.Domain.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system\\sales\\sales.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267B2F83-8DF8-4CFF-B39C-C6AEFD81F309}|Sales.Domain\\Sales.Domain.csproj|solutionrelative:sales.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioExtention.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Extentions\\UsuarioExtention.cs",
+              "RelativeDocumentMoniker": "Sales.Infrastructure\\Extentions\\UsuarioExtention.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Extentions\\UsuarioExtention.cs",
+              "RelativeToolTip": "Sales.Infrastructure\\Extentions\\UsuarioExtention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T23:34:13.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Exceptions\\UsuarioExceptions.cs",
+              "RelativeDocumentMoniker": "Sales.Infrastructure\\Exceptions\\UsuarioExceptions.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Exceptions\\UsuarioExceptions.cs",
+              "RelativeToolTip": "Sales.Infrastructure\\Exceptions\\UsuarioExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T23:25:05.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Sales.Infrastructure\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "Sales.Infrastructure\\Core\\BaseRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T23:16:50.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioModels.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Models\\UsuarioModels.cs",
+              "RelativeDocumentMoniker": "Sales.Infrastructure\\Models\\UsuarioModels.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Models\\UsuarioModels.cs",
+              "RelativeToolTip": "Sales.Infrastructure\\Models\\UsuarioModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:45:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Sales.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Sales.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwFwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:32:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Application\\Sales.Application.csproj",
+              "RelativeDocumentMoniker": "Sales.Application\\Sales.Application.csproj",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Application\\Sales.Application.csproj",
+              "RelativeToolTip": "Sales.Application\\Sales.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T23:41:56.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Domain\\Core\\Person.cs",
+              "RelativeDocumentMoniker": "Sales.Domain\\Core\\Person.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Domain\\Core\\Person.cs",
+              "RelativeToolTip": "Sales.Domain\\Core\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:39:07.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sales.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Sales.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:36:30.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -28,3 +28,34 @@ C:\Users\alber\OneDrive\Escritorio\Prog 2-individual\Sales\Sales.Web\obj\Debug\n
 C:\Users\alber\OneDrive\Escritorio\Prog 2-individual\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.pdb
 C:\Users\alber\OneDrive\Escritorio\Prog 2-individual\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.genruntimeconfig.cache
 C:\Users\alber\OneDrive\Escritorio\Prog 2-individual\Sales\Sales.Web\obj\Debug\net6.0\ref\Sales.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\Sales.Web.staticwebassets.runtime.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\Sales.Web.exe
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\Sales.Web.deps.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\Sales.Web.runtimeconfig.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\Sales.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\bin\Debug\net6.0\Sales.Web.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.RazorAssemblyInfo.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.RazorAssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.sourcelink.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets\msbuild.Sales.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Sales.Web.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sales.Web.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sales.Web.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\scopedcss\bundle\Sales.Web.styles.css
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\scopedcss\projectbundle\Sales.Web.bundle.scp.css
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\refint\Sales.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\Sales.Web.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System\Sales\Sales.Web\obj\Debug\net6.0\ref\Sales.Web.dll

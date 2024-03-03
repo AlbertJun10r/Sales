@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sales.Infrastructure.Expceptions
+namespace Sales.Infrastructure.Exceptions
 {
     internal class UsuarioExceptions
     {

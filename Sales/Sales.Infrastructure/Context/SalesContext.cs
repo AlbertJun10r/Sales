@@ -1,12 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Sales.Domain.Entitites;
+using SalesOnline.Domain.Entities;
 
 namespace Sales.Infrastructure.Context
 {
-    internal class salesContext
+    public partial class SalesContext : DbContext
     {
+        public SalesContext(DbContextOptions<SalesContext> options) : base(options)
+        {
+
+        }
+    }
+
+    public partial class SalesContext
+    {
+        #region DbSet
+        public DbSet<Rol> rol { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
+        #endregion
     }
 }

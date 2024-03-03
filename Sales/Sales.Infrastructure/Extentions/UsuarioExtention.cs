@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sales.Infrastructure.Interfaces
+namespace Sales.Infrastructure.Extentions
 {
-    internal class IUsusarioRepository
+    internal class UsuarioExtention
     {
     }
 }
