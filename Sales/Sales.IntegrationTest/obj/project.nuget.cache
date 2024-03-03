@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2d3xW+VOWn9shh/VS/l0Opbnau72LVrTFhl4MVMSWAJgUBvd7Z+y1dmsfW/sm6P1KFvnNpLR7dyqnPemBd0aQ==",
+  "dgSpecHash": "8ycH1Qeh0l20Tt9xWP6mSdJ2UzxINglD7FVsmparbt5UNnxs0t0hYoZKrUnv0spzjceI3b7Wrzt6c6AJ7r8SHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Prog 2-individual\\Sales\\Sales.IntegrationTest\\Sales.IntegrationTest.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.IntegrationTest\\Sales.IntegrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSuXQANAYMJezQ8qwFhao4ssL4FBC8IdyC7Mc89DzXDGMLpJ156+PvkbyhhnWMHEagxDjc+aoMavdyjf/92OOA==",
+  "dgSpecHash": "Nffka1+aRd5Qfmp0HkCF1Qw1ka+lG1HYMj9NsBgoWrQisYv2lNxXlQ6nolLJBo6UzKrSZHf20pfF1yIkpT19yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Prog 2-individual\\Sales\\Sales.Domain\\Sales.Domain.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System\\Sales\\Sales.Domain\\Sales.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
